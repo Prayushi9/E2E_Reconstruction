@@ -6,6 +6,6 @@ on-the-fly from CERN‟s SW repository cvmfs)
 
 Majorly, these three stated below are to be done to complete the setup:
 
-1.) Install docker on the local machine
-2.) Pull and run CMSSW docker image
-3.) Test externals via docker
+- Install docker on the local machine
+- Pull and run CMSSW docker image
+- Test externals via docker
